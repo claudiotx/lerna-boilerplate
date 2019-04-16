@@ -1,6 +1,10 @@
 # This is a monorepo sample managed by 'Lerna'
 Motivation: Making changes across many repositories is messy and difficult to track, and testing across repositories gets complicated really fast.
 
+[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lernajs.io/)
+
+Official Docs: https://github.com/lerna/lerna#readme
+
 ## Setup
 `npx lerna init`
 
